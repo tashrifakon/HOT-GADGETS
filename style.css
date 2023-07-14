@@ -1,0 +1,86 @@
+.row{
+    align-items: center;
+}
+.center{
+    margin-top: 10px;
+    margin-left: 170px;
+}
+
+.p{
+    text-align: center;
+}
+
+
+header{
+    box-shadow: 7px 7px 60px sienna;
+}
+
+.carousel-inner{
+    box-shadow: 10px 10px 80px cadetblue;
+}
+.seeall{
+    color: gold;
+}
+
+.btn{
+    box-shadow: 2px 2px 5px palegreen;
+    box-shadow:  5px 7px 60px hotpink;
+}
+
+h3{
+    text-align: center;
+}
+
+.card-text{
+    text-align: center;
+    color: gray;
+}
+
+.card{
+    border: none;
+    border-radius: 5px;
+    box-shadow: 4px 4px 50px forestgreen;
+}
+
+.c1{
+    box-shadow: 5px 5px 60px greenyellow;
+}
+
+.smartphone{
+    padding-bottom: 50px;
+}
+
+#Categories>h3{
+    margin-top: 100px;
+}
+
+.pale>img{
+    box-shadow: 5px 5px 50px darksalm;
+}
+
+.tf>img{
+    border: 2px;
+    border-color: aqua;
+    box-shadow: 5px 5px 25px wheat;
+}
+
+#Categories>h3{
+    box-shadow: 5px 5px 50px darkolivegreen;
+}
+.pic{
+    margin-bottom: 20px;
+    padding-top: 20px;
+    
+}
+.rounded-circle{
+    box-shadow: 5px 5px 50px lightcoral;
+}
+.bg{
+    background-color: lightcyan;
+    box-shadow: 5px 5px 60px aqua;
+}
+
+#ai{
+    font-family: 'VT323', monospace;;
+    text-align: justify;
+}
